@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\shared\\levelAdapter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\shared\\levelAdapter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\editor\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\editor\\editor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\editor\\editor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\game\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\game\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\game\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\game\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "editor.js",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.js",
+              "RelativeDocumentMoniker": "public\\editor\\editor.js",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.js",
+              "RelativeToolTip": "public\\editor\\editor.js",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAAL0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T03:54:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.js",
+              "RelativeDocumentMoniker": "public\\game\\game.js",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.js",
+              "RelativeToolTip": "public\\game\\game.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0CAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T02:49:03.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "game.css",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.css",
+              "RelativeDocumentMoniker": "public\\game\\game.css",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\game.css",
+              "RelativeToolTip": "public\\game\\game.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-19T02:48:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\index.html",
+              "RelativeDocumentMoniker": "public\\game\\index.html",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\index.html",
+              "RelativeToolTip": "public\\game\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T02:47:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "editor.css",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.css",
+              "RelativeDocumentMoniker": "public\\editor\\editor.css",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\editor.css",
+              "RelativeToolTip": "public\\editor\\editor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-19T02:44:30.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T02:41:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "levelAdapter.js",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\shared\\levelAdapter.js",
+              "RelativeDocumentMoniker": "public\\shared\\levelAdapter.js",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\shared\\levelAdapter.js",
+              "RelativeToolTip": "public\\shared\\levelAdapter.js",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-19T02:41:11.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.html",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\main.html",
+              "RelativeDocumentMoniker": "public\\game\\main.html",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\game\\main.html",
+              "RelativeToolTip": "public\\game\\main.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T02:32:33.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\index.html",
+              "RelativeDocumentMoniker": "public\\editor\\index.html",
+              "ToolTip": "C:\\Users\\tobia\\Desktop\\JS WebApps\\JS WebApps\\LevelEditorTobias\\public\\editor\\index.html",
+              "RelativeToolTip": "public\\editor\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-19T02:31:12.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

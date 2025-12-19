@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\editor",
+    "\\public\\game",
+    "\\public\\shared"
+  ],
+  "SelectedNode": "\\server.js",
+  "PreviewInSolutionExplorer": false
+}

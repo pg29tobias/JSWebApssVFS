@@ -1,0 +1,47 @@
+body {
+    display: block;
+    text-align: center;
+    background: #ffd800;
+    margin: 0;
+    padding: 0;
+    font-family: Cambria;
+}
+
+canvas {
+    display:block;
+    background-color: #95b8d5;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divExtra {
+    width: 90%;
+    overflow: hidden;
+    border: 2px solid #004d40;
+}
+
+header {
+    padding: 10px;
+}
+
+.toolbar {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+}
+
+    .toolbar input {
+        padding: 4px 6px;
+    }
+
+.hint {
+    font-size: 12px;
+    opacity: 0.8;
+}
